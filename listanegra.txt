@@ -1,1 +1,3 @@
 https://cat.va.us.criteo.com
+cat.va.us.criteo.com
+criteo.com
