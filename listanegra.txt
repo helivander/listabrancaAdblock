@@ -1,3 +1,7 @@
 https://cat.va.us.criteo.com
 cat.va.us.criteo.com
 criteo.com
+https://notify.bugsnag.com
+https://sessions.bugsnag.com
+https://api.bugsnag.com
+https://browser.sentry-cdn.com
