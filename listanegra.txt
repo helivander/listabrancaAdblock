@@ -5,3 +5,6 @@ https://notify.bugsnag.com
 https://sessions.bugsnag.com
 https://api.bugsnag.com
 https://browser.sentry-cdn.com
+https://analytics.facebook.com
+https://ads.facebook.com
+https://an.facebook.com
